@@ -5,7 +5,7 @@ import glob
 
 scripts = glob.glob('src/*.py')
 
-version_long = '0.1.0-dev'
+version_long = '0.2.0'
 
 # generate entry points
 entry_points = {'console_scripts': []}
